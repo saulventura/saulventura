@@ -1,5 +1,4 @@
 <p align="center">
-
 	<a href="https://twitter.com/saul_ventura__"><img src="imgs/twitter.svg" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/saul-ventura/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 	<a href="https://www.instagram.com/saul_ventura__/"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
